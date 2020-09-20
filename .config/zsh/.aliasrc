@@ -1,0 +1,23 @@
+# alias list sourced by .zshrc
+
+alias sdf="feh --randomize --bg-scale ~/Media/images/wallpapers/Landscapes/*"
+
+alias nnn="nnn -Hn"
+alias nnd="nnn -Hnd"
+
+alias ls='ls --color=auto'
+alias l='exa'
+alias la='exa -a'
+alias lt='exa -aT'
+alias ll='exa -al'
+
+alias vi='nvim'
+alias vim='nvim'
+
+alias :q='exit'
+
+# git init --bare $HOME/.config/.gitbare
+alias config='/usr/bin/git --git-dir=$HOME/.config/.gitbare --work-tree=$HOME'
+# config config --local status.showUntrackedFiles no
+# echo "alias config='/usr/bin/git --git-dir=$HOME/.config/.gitbare --work-tree=$HOME'" >> $HOME/.bashrc
+
