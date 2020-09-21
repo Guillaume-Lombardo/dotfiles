@@ -4,9 +4,6 @@ typeset -U PATH path
 path=(~/bin ~/progs/bin $path)
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-# Path to your oh-my-zsh installation.
-export ZSH="/home/guillaume/.oh-my-zsh"
-
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
 
@@ -17,25 +14,4 @@ export TIME_STYLE="long-iso"
 
 # You may need to manually set your language environment
 # export LANG=fr_FR.UTF-8
-
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-
-# set terminal for i3 to choose the right teminal
-export TERMINAL='alacritty'
-
-# set visual editor to nano
-export VISUAL='nano'
-
-# nnn configuration:
-export NNN_CONTEXT_COLORS='1234'
-
 

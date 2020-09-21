@@ -17,7 +17,7 @@ alias vim='nvim'
 alias :q='exit'
 
 # git init --bare $HOME/.config/.gitbare
-alias config='/usr/bin/git --git-dir=$HOME/.config/.gitbare --work-tree=$HOME'
+alias config='dotbare' #'/usr/bin/git --git-dir=$HOME/.config/.gitbare --work-tree=$HOME'
 # config config --local status.showUntrackedFiles no
 # echo "alias config='/usr/bin/git --git-dir=$HOME/.config/.gitbare --work-tree=$HOME'" >> $HOME/.bashrc
 
