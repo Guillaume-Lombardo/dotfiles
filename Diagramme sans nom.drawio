@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T17:41:35.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="srx2EW7TZReUvaaf4wBU" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T17:43:13.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="CcCNQJxL4a7bbrI3CkLc" version="24.4.4" type="github">
   <diagram name="Page-1" id="2XyBQM0toxN7iE4lYjke">
     <mxGraphModel dx="1296" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,15 +62,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SuNs6kUS3u0HIBSrtQcu-16" value="Réponse LLM" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SuNs6kUS3u0HIBSrtQcu-15" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SuNs6kUS3u0HIBSrtQcu-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1490" y="10" as="sourcePoint" />
-            <mxPoint x="1490" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SuNs6kUS3u0HIBSrtQcu-20" value="Réponse LLM" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SuNs6kUS3u0HIBSrtQcu-19" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SuNs6kUS3u0HIBSrtQcu-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" parent="1" source="SuNs6kUS3u0HIBSrtQcu-11" target="SuNs6kUS3u0HIBSrtQcu-13" edge="1">
